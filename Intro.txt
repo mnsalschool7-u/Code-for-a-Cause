@@ -1,0 +1,9 @@
+git init
+git add Intro.txt
+
+git commit -m "Add Intro.txt"
+git remote add origin https://github.com/qguoliau1/Code-for-a-Cause.git
+git push -u origin main
+
+git branch -M main
+git push -u origin main
